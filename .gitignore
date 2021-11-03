@@ -100,3 +100,11 @@ target/
 !config_examples/config_ftx.example.json
 !config_examples/config_full.example.json
 !config_examples/config_kraken.example.json
+New Text Document.txt
+pairlist_generator.py
+run-backtest.py
+run.bat
+run.sh
+run_backtest.sh
+sync.ffs_lock
+Analysis/*
